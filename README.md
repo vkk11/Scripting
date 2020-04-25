@@ -1,3 +1,3 @@
 # Scripting
 Scripting Project:
-Welcome to the Scripting World
+Welcome to the "Bash" Scripting World!!
