@@ -1,1 +1,1 @@
-# Welcome to The Basic Bash Scripting!!
+# Welcome to the Basic Bash Scripting!!
