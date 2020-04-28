@@ -1,1 +1,1 @@
-# Advanced Bash Scripting Welcomes You
+# Advanced Bash Scripting
